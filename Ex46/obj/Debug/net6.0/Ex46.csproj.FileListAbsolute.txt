@@ -1,0 +1,15 @@
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\bin\Debug\net6.0\Ex46.exe
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\bin\Debug\net6.0\Ex46.deps.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\bin\Debug\net6.0\Ex46.runtimeconfig.json
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\bin\Debug\net6.0\Ex46.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\bin\Debug\net6.0\Ex46.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.csproj.AssemblyReference.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.AssemblyInfoInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.AssemblyInfo.cs
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.csproj.CoreCompileInputs.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\refint\Ex46.dll
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.pdb
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\Ex46.genruntimeconfig.cache
+C:\Users\Лера\Desktop\Николай\2. Знакомство с языками программирования\Sem7\Ex46\obj\Debug\net6.0\ref\Ex46.dll
